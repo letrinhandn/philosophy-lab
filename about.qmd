@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Philosophy Lab collects personal essays and notes on philosophy by Le Tri Nhan.
+
+Root hub: [personal site](https://letrinhandn.github.io/letrinhan-site/).
+
+- [Tech Lab](https://letrinhandn.github.io/tech-lab/)
+- [Economic Lab](https://letrinhandn.github.io/economic-lab/)
+- [Policy Lab](https://letrinhandn.github.io/policy-lab/)
